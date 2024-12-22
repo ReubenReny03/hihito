@@ -1,7 +1,7 @@
 
 # hihito Bot 🤖✨
 
-Welcome to **LinkedIn Comment BFF Bot**! This script is your AI-powered bestie that chills on LinkedIn posts, looks for specific keywords in comments, and slides in with replies like a pro. 💬✨
+Welcome to **hi hito**! This script is your AI-powered bestie that chills on LinkedIn posts, looks for specific keywords in comments, and slides in with replies like a pro. 💬✨
 
 ---
 
