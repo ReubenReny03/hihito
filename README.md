@@ -89,4 +89,4 @@ MIT License. Do what you want with it, but don’t get in trouble. 😇
 
 ---
 
-Made with ❤️ by someone who loves automation and good vibes. ✨
+Made with ❤️ by Resquare✨
